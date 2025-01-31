@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/apps/v1%40deployment": "file:///c%3A/__git/udemy-docker-mastery/k8s-yaml/app.yml"
+    }
+}
